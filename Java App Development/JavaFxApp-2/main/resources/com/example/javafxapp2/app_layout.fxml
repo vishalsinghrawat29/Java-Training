@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="370.0" prefWidth="474.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxapp2.Contoller">
+   <children>
+      <Pane fx:id="myPane" prefHeight="375.0" prefWidth="474.0">
+         <children>
+            <Button fx:id="myButton" layoutX="211.0" layoutY="318.0" mnemonicParsing="false" text="Start Animation" />
+         </children></Pane>
+   </children>
+</VBox>
